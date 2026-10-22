@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="assets/yashraj-cineflex-banner.png" alt="Yashraj CineFlex banner" width="100%">
+![Yashraj CineFlex](yashraj-cineflex-banner.png)
+
+# Yashraj CineFlex
+
+**Online Movie Ticket Booking System**
+
+Built with PHP and MySQL
+
+</div>
+
+---
 
 # Yashraj CineFlex
 
