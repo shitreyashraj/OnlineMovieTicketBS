@@ -1,24 +1,17 @@
-<div align="center">
+ <div align="center">
 
-<img src="Yashraj%20Cinema%20Booking%20Showcase.png" alt="Yashraj CineFlex Banner" width="100%">
+  <img src="Yashraj%20Cinema%20Booking%20Showcase.png" alt="Yashraj CineFlex Banner" width="100%">
 
-# Yashraj CineFlex
+  # Yashraj CineFlex
 
-**Online Movie Ticket Booking System**
+  **Online Movie Ticket Booking System**
 
-</div>
+  A PHP and MySQL web application with cloud hosting and DevOps workflow exposure.
 
----
-
-# Yashraj CineFlex
-
-**Online Movie Ticket Booking System**
-
-A PHP and MySQL web application for browsing movies and managing ticket bookings.
-
-![PHP](https://img.shields.io/badge/PHP-Project-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-181717?logo=github&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 </div>
 
@@ -26,67 +19,68 @@ A PHP and MySQL web application for browsing movies and managing ticket bookings
 
 ## About
 
-Yashraj CineFlex is a movie ticket booking project built with PHP and MySQL. It is intended to help users browse movies and show information, with administration features for managing movie-related records.
+Yashraj CineFlex is an online movie ticket booking system developed using PHP and MySQL. Users can browse movies, access account features, and book tickets, while administrators can manage movie and show information.
 
-## Features
+## Key Features
 
-- Movie listing and show information
+- Movie listings and show details
 - User registration and login
 - Movie ticket booking
-- Theatre, movie, and show management features
-- Admin dashboard
+- Movie and show management
+- Theatre administration dashboard
 
 ## Technology Stack
 
-- **Frontend:** HTML, CSS, JavaScript (if included in the source)
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
-- **Version control:** Git and GitHub
-- **Workflow:** GitHub Actions configuration (see `.github/workflows`)
+- **Cloud Platform:** Microsoft Azure
+- **CI/CD Workflow:** GitHub Actions
+- **Version Control:** Git and GitHub
 
-## Screenshots
+## Cloud Hosting & DevOps
 
-Add screenshots of your actual application to the `screenshots/` folder and update the paths below.
+The project explores hosting a PHP web application on Microsoft Azure and using GitHub for source control and workflow management.
 
-| Movie listing | Login page |
-|---|---|
-| `screenshots/home-page.png` | `screenshots/login-page.png` |
+**Deployment flow:**
 
-| Admin dashboard |
-|---|
-| `screenshots/admin-dashboard.png` |
+Developer → GitHub Repository → GitHub Actions → Azure App Service → Web Application
 
-Once the files are uploaded, replace this note with actual Markdown images, for example:
+This architecture represents the intended deployment flow. Azure hosting and automated deployment should be marked as completed only if the application and workflow have been successfully tested.
 
-```markdown
-![Movie listing](screenshots/home-page.png)
-```
+## Application Screenshots
+
+### Movie Listing Page
+
+![Movie Listing Page](screenshots/home-page.png)
+
+### Login and Registration
+
+![Login and Registration](screenshots/login-page.png)
+
+### Theatre Admin Dashboard
+
+![Theatre Admin Dashboard](screenshots/admin-dashboard.png)
 
 ## Run Locally
 
 1. Install XAMPP or another PHP/MySQL environment.
-2. Download or clone this repository into your web server directory.
-3. Create a MySQL database and import the SQL file if one is included.
-4. Update the application's database connection settings for your local environment.
-5. Start Apache and MySQL.
-6. Open the project through `http://localhost/` using the folder name for this project.
-
-Adjust these steps to match the actual source files and database setup in the repository.
-
-## DevOps Learning
-
-This repository can be used to demonstrate Git version control and GitHub workflow configuration. CI/CD and cloud deployment should be described as completed only after the workflow and deployment have been tested successfully.
+2. Clone or download this repository.
+3. Place the project in the web server directory.
+4. Create the database and import the SQL file, if included.
+5. Configure the database connection in the PHP files.
+6. Start Apache and MySQL.
+7. Open the project at its local URL, using the correct folder name.
 
 ## Future Improvements
 
-- Validate and improve the GitHub Actions workflow
-- Add setup screenshots and database documentation
-- Configure secure application settings
-- Add verified cloud deployment and health checks
+- Improve the CI/CD workflow
+- Document database configuration
+- Strengthen application security
+- Improve cloud deployment and monitoring
 
 ## Author
 
 **Yashraj Shitre**
 
-- [GitHub Profile](https://github.com/shitreyashraj)
-- [Project Repository](https://github.com/shitreyashraj/OnlineMovieTicketBS)
+[GitHub Profile](https://github.com/shitreyashraj) · [Project Repository](https://github.com/shitreyashraj/OnlineMovieTicketBS)
