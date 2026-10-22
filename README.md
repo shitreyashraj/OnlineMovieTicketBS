@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="Yashraj%20Cinema%20Booking%20Showcase.png" alt="Yashraj CineFlex Banner" width="100%">
+
+# Yashraj CineFlex
+
+**Online Movie Ticket Booking System**
+
+</div>
+
+---
+
 # Yashraj CineFlex 🎬
 
 ### Online Movie Ticket Booking System
