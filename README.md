@@ -1,12 +1,10 @@
 <div align="center">
 
-![Yashraj CineFlex](yashraj-cineflex-banner.png)
+<img src="Yashraj%20Cinema%20Booking%20Showcase.png" alt="Yashraj CineFlex Banner" width="100%">
 
 # Yashraj CineFlex
 
 **Online Movie Ticket Booking System**
-
-Built with PHP and MySQL
 
 </div>
 
